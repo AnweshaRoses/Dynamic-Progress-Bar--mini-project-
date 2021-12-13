@@ -31,11 +31,5 @@
     height: 100%;
     background-color: limegreen;
     border-radius: 30px;
-    animation: move 3s linear;
+    animation: move 9s linear;
 }
-/* @keyframes move {
-    to{
-        width: 100%;
-    }
-    
-} */
